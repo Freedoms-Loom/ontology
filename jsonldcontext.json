@@ -6,8 +6,8 @@
       "@id": "rdf:HTML"
     },
 
-    "@vocab": "http://schema.org/",
-    "loom": "",
+    "@vocab": "https://freedoms-loom.github.io/ontology/",
+    "loom": "https://freedoms-loom.github.io/ontology/",
 
     "schema": "http://schema.org/",
     "cat": "http://www.w3.org/ns/dcat#",
@@ -53,7 +53,7 @@
     "xml": "http://www.w3.org/XML/1998/namespace",
     "xsd": "http://www.w3.org/2001/XMLSchema#",
     "ShipManifest": {
-      "@id": "schema:NewsArticle"
+      "@id": "schema:ShipManifest"
     }
   }
 }
